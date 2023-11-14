@@ -1,0 +1,4 @@
+jwt:
+  secret: secretsecretsecretsecretsecretsecretsecretsecretsecretsecretsecretsecretsecretsecretsecretsecretsecretsecretsecret
+  access-token-validity-in-seconds: 86400
+  refresh-token-validity-in-seconds: 144000
