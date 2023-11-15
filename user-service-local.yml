@@ -6,6 +6,6 @@ spring:
     password: '{cipher}d8b028d75763f02f263f96cc944e3a00b2536e4e010d7348d0624a5131fade9f'
 
 jwt:
-  secret: secretsecretsecretsecretsecretsecretsecretsecretsecretsecretsecretsecretsecretsecretsecretsecretsecretsecretsecret
+  secret: '{cipher}69a292b7b8b61f1d104e903b272b7b0e2ff9b90be9247205c8c536498f5c54b431b399c91cd390746a7a45538f56454bfe8f0a25ebb0ecd32a50654ce3484862fd3b49543485e29b24edeafb930f21584f9707e66241cd8c8cd15fc58d93d8b178d73afd25c498b109c6afe257e73bfbfeea4e4d1ed9aa07e3ff79154411f1a6c87e89f5afc46a3e393dc72238f7d7a3'
   access-token-validity-in-seconds: 86400
   refresh-token-validity-in-seconds: 144000
