@@ -3,7 +3,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/eshop-user-service-db
     username: root
-    password: 1234
+    password: '{cipher}d8b028d75763f02f263f96cc944e3a00b2536e4e010d7348d0624a5131fade9f'
 
 jwt:
   secret: secretsecretsecretsecretsecretsecretsecretsecretsecretsecretsecretsecretsecretsecretsecretsecretsecretsecretsecret
